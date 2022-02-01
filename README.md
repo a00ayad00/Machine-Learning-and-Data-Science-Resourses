@@ -1,6 +1,6 @@
 # Books-and-Files
 
-#### These books and PDF files are a very small samble of from what I read in courses and on websites and they containe topics like Machine Learning, Deep Learning and NLP.
+#### These books and PDF files are a very small sample of what I read in courses and on websites and they contain topics like Machine Learning, Deep Learning and NLP.
 
 #### I learned a lot from them.
 
