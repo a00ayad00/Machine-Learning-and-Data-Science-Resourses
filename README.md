@@ -71,11 +71,15 @@ Book: [link](https://drive.google.com/file/d/1tjZKJytOlcEpw20nTyVImFdw0NQatCWB/v
 
 `Abhishek Thakur`: [link](https://www.youtube.com/c/AbhishekThakurAbhi)
 
-# Free courses on Udacity & Coursera
+# Free courses on Udacity & Coursera & Udemy
 
 200 Udacity free courses on ML and Data Science >>>> [link](https://www.mltut.com/udacity-free-courses-on-machine-learning/)
 
 Free Coursera Courses for Data Science, you can check these 38 Completely Free Data Science Coursera Courses >>>> [link](https://lnkd.in/gdqM4Cyf)
+
+70 Free Online Courses for Data Science to Advance Your Skills in 2022 >>>> [link](https://www.mltut.com/free-online-courses-for-data-science/)
+
+See this folder on my Google Drive for more courses >>>> [link](https://drive.google.com/drive/folders/1lpMJWomlJxJCddyS1OC6jmrCJJRnKKT8?usp=sharing)
 
 # How to create your own resume?
 [FlowCV](https://app.flowcv.com/)
