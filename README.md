@@ -4,7 +4,7 @@
 
 #### I learned a lot from most of them, so, I highly recommend this special sample for you and this is about my personal experience.
 
-#### You can find them on Google Drive [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc).
+#### You can find them on my Google Drive [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc).
 
 # Roadmap
 This roadmap related to Data Science, Machine Learning, Deep Learning, Data Engineer and Big Data Engineer.
@@ -32,9 +32,9 @@ Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-road
 <br>[MS SQL Server](https://www.youtube.com/watch?v=-_wLgK0IKfo&list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) for SQL
 
 # ML in 4 months Course
-### Book: [link](https://drive.google.com/file/d/1tjZKJytOlcEpw20nTyVImFdw0NQatCWB/view?usp=sharing)
-### Playlist: [link](https://youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
-### Projects: [link](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
+Book: [link](https://drive.google.com/file/d/1tjZKJytOlcEpw20nTyVImFdw0NQatCWB/view?usp=sharing)
+<br>Playlist: [link](https://youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
+<br>Projects: [link](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 
 # Some YouTube channels in English to teach data science and artificial intelligence (An alternative to paid courses) 
 
