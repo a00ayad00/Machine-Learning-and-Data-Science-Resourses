@@ -1,11 +1,12 @@
 # Books and summaries
 
-#### These books and summary files contain topics like `Algorthms and Data Structures,` `Data Sciense and Analysis,` `Machine Learning,` `Deep Learning,` `Computer Vision,` `NLP`, `SQL`, `Python` and more topics. In addition to courses on 365Data Science and Udemy for free.
+► These books and summary files contain topics like `Algorthms and Data Structures,` `Data Sciense and Analysis,` `Machine Learning,` `Deep Learning,` `Computer Vision,` `NLP`, `SQL`, `Python` and more topics. In addition to courses on 365Data Science and Udemy for free.
 
-#### I learned a lot from most of them, so, I highly recommend this special sample for you and this is about my personal experience.
+► I learned a lot from most of them, so, I highly recommend this special sample for you and this is about my personal experience.
 
-#### You can find them on my Google Drive [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc).
+► You can find them on my Google Drive [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc).
 
+<br>►►►►►► Notice: This GoogleDrive and the whole repo up-to-date (under update) ◄◄◄◄◄◄
 # Roadmap
 This roadmap related to Data Science, Machine Learning, Deep Learning, Data Engineer and Big Data Engineer.
 Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
