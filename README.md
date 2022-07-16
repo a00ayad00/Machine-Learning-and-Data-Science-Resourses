@@ -85,3 +85,4 @@ See this folder on my Google Drive for more courses >>>> [link](https://drive.go
 [FlowCV](https://app.flowcv.com/)
 <br>[Canva](https://www.canva.com/)
 <br>[Template](https://drive.google.com/drive/folders/1duhn2op_WsKVDuq6R6Y_9s3MzcDfJsfl?usp=sharing)
+<br>[ResumeNow](https://www.resume-now.com/build-resume/onboarding/targetcountry)
