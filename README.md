@@ -10,7 +10,7 @@
 # Roadmap
 This roadmap related to Data Science, Machine Learning, Deep Learning, Data Engineer and Big Data Engineer.
 Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
-
+<br>You can take a peek at this [doc](https://drive.google.com/file/d/1pBihV-xJWVWX6eZy1nmt1q3zsCD3xiDN/view?usp=sharing), too.
 # You have to learn all this before ML and DL
 1. Linear Algebra for Machine Learning  --->  [link](https://downloadly.net/2021/02/58961/12/linear-algebra-for-machine-learning/21/
 )
