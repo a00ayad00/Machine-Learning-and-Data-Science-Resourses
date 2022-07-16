@@ -26,10 +26,53 @@ Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-road
 
 
 
-# Arabic channels for learning
+# Arabic channels
 [Mustafa Othman](https://www.youtube.com/c/MustafaOthman/playlists)
 <br>[Hesham Asem](https://www.youtube.com/c/HeshamAsem/playlists)
 <br>[Codzilla](https://www.youtube.com/watch?v=h3VCQjyaLws&list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) and [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) for Python
 <br>[MS SQL Server](https://www.youtube.com/watch?v=-_wLgK0IKfo&list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) for SQL
 
+# ML in 4 months Course
+### Book: [link](https://drive.google.com/file/d/1tjZKJytOlcEpw20nTyVImFdw0NQatCWB/view?usp=sharing)
+### Playlist: [link](https://youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
+### Projects: [link](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 
+# Some YouTube channels in English to teach data science and artificial intelligence (An alternative to paid courses) 
+
+`Python Simplified`: [link](https://www.youtube.com/c/PythonSimplified)
+
+`Krish Naik`: The best channel out there >>>> [link](https://www.youtube.com/user/krishnaik06)
+
+`Nicholas Renotte`: A very distinguished channel, especially in the computer vision >>>> [link](https://www.youtube.com/c/NicholasRenotte)
+
+`Pysource`: The great channel in the computer Vision >>>> [link](https://www.youtube.com/channel/UC5hHNks012Ca2o_MPLRUuJw)
+
+`codebasics`: One of the best channels in Data Science and NLP >>>> [link](https://www.youtube.com/c/codebasics)
+
+`CodeEmporium`: A very distinguished channel in Data Scienc >>>> [link](https://www.youtube.com/c/CodeEmporium)
+
+`Python Engineer`: A distinguished channel with its advanced topics >>>> [link](https://www.youtube.com/c/PythonEngineer)
+
+`igitalSreeni`: A channel specialized in computer vision and segmentation, and the most important thing in the channel is coding, practical, not theoretical, and it is presented by a very distinguished university professor >>>> [link](https://www.youtube.com/c/DigitalSreeni)
+
+`CODE MENTAL`: [link](https://www.youtube.com/c/CODEMENTAL)
+
+`Lazy Tech`: [link](https://www.youtube.com/c/LazyTech825)
+
+`Normalized Nerd`: Very very special channel >>>> [link](https://www.youtube.com/c/NormalizedNerd)
+
+`Weights & Biases`: [link](https://www.youtube.com/c/WeightsBiases)
+
+`The AI Guy`: [link](https://www.youtube.com/c/TheAIGuy)
+
+`AI Sciences`: Good and varied topics >>>> [link](https://www.youtube.com/c/AISciencesLearn)
+
+`AIEngineering`: [link](https://www.youtube.com/c/AIEngineeringLife)
+
+`Abhishek Thakur`: [link](https://www.youtube.com/c/AbhishekThakurAbhi)
+
+# Free courses on Udacity & Coursera
+
+200 Udacity free courses on ML and Data Science >>>> [link](https://www.mltut.com/udacity-free-courses-on-machine-learning/)
+
+Free Coursera Courses for Data Science, you can check these 38 Completely Free Data Science Coursera Courses >>>> [link](https://lnkd.in/gdqM4Cyf)
