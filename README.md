@@ -76,3 +76,8 @@ Book: [link](https://drive.google.com/file/d/1tjZKJytOlcEpw20nTyVImFdw0NQatCWB/v
 200 Udacity free courses on ML and Data Science >>>> [link](https://www.mltut.com/udacity-free-courses-on-machine-learning/)
 
 Free Coursera Courses for Data Science, you can check these 38 Completely Free Data Science Coursera Courses >>>> [link](https://lnkd.in/gdqM4Cyf)
+
+# How to create your own resume?
+[FlowCV](https://app.flowcv.com/)
+<br>[Canva](https://www.canva.com/)
+<br>[Template](https://drive.google.com/drive/folders/1duhn2op_WsKVDuq6R6Y_9s3MzcDfJsfl?usp=sharing)
