@@ -1,6 +1,6 @@
 # Books and summaries
 
-#### These books and PDF files contain topics like `Algorthms and Data Structures,` `Data Sciense and Analysis,` `Machine Learning,` `Deep Learning,` `Computer Vision,` `NLP` and more topics.
+#### These books and summary files contain topics like `Algorthms and Data Structures,` `Data Sciense and Analysis,` `Machine Learning,` `Deep Learning,` `Computer Vision,` `NLP`, `SQL`, `Python` and more topics. In addition to courses on 365Data Science and Udemy for free.
 
 #### I learned a lot from most of them, so, I highly recommend this special sample for you and this is about my personal experience.
 
