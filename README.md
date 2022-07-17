@@ -81,7 +81,7 @@ Free Coursera Courses for Data Science, you can check these 38 Completely Free D
 
 70 Free Online Courses for Data Science to Advance Your Skills in 2022 >>>> [link](https://www.mltut.com/free-online-courses-for-data-science/)
 
-See this folder on my Google Drive for more paid and free courses for free >>>> [link](https://drive.google.com/drive/folders/1lpMJWomlJxJCddyS1OC6jmrCJJRnKKT8?usp=sharing)
+See this folder on my Google Drive for more free courses and paid ones for free >>>> [link](https://drive.google.com/drive/folders/1lpMJWomlJxJCddyS1OC6jmrCJJRnKKT8?usp=sharing)
 
 # How to create your own resume?
 [FlowCV](https://app.flowcv.com/)
