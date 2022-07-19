@@ -34,11 +34,6 @@ Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-road
 <br>[Codzilla](https://www.youtube.com/watch?v=h3VCQjyaLws&list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) and [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) for Python
 <br>[MS SQL Server](https://www.youtube.com/watch?v=-_wLgK0IKfo&list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) for SQL
 
-# ML in 4 months Course
-Book: [link](https://drive.google.com/file/d/1tjZKJytOlcEpw20nTyVImFdw0NQatCWB/view?usp=sharing)
-<br>Playlist: [link](https://youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
-<br>Projects: [link](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
-
 # Some YouTube channels in English to teach data science and artificial intelligence (An alternative to paid courses) 
 
 `Python Simplified`: [link](https://www.youtube.com/c/PythonSimplified)
