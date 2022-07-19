@@ -1,8 +1,10 @@
-# Books and summaries
+# Google Drives (E-Books, Courses, summaries and Interview Preparation)
 
 ► These books and summary files contain topics like `Algorthms and Data Structures,` `Data Sciense and Analysis,` `Machine Learning,` `Deep Learning,` `Computer Vision,` `NLP`, `SQL`, `Python` and more topics. In addition to courses on 365Data Science, Udacity, Udemy and more for free.
 
 ► You can find them on my Google Drive [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc).
+
+► You can inspect a big Drive in data science from [here](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ)
 
 ► This site has millions of e-books that you can download any of them for free  >>>> [PDF_Drive](https://www.pdfdrive.com/)
 
