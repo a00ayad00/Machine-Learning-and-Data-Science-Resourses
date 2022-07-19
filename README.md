@@ -82,5 +82,5 @@ Free Coursera Courses for Data Science, you can check these 38 Completely Free D
 <br>[Kickresume](https://www.kickresume.com)
 <br>[ResumeNow](https://www.resume-now.com/build-resume/onboarding/targetcountry)
 <br>[Template on my Drive](https://drive.google.com/drive/folders/1duhn2op_WsKVDuq6R6Y_9s3MzcDfJsfl?usp=sharing)
-<br>[resume-quality-score](https://resume.naukri.com/resume-quality-score)
+<br>[resume quality score](https://resume.naukri.com/resume-quality-score)
 <br>[CV review](https://www.topcv.co.uk/)
