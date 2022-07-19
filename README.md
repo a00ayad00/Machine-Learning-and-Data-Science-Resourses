@@ -74,7 +74,7 @@ Free Coursera Courses for Data Science, you can check these 38 Completely Free D
 
 70 Free Online Courses for Data Science to Advance Your Skills in 2022 >>>> [link](https://www.mltut.com/free-online-courses-for-data-science/)
 
-AI Courses and Certifications from Inte >>>> [link](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/courses.html)
+AI Courses and Certifications from Intel >>>> [link](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/courses.html)
 
 **See my Google Drive for more courses**
 
