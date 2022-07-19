@@ -8,7 +8,7 @@
 
 ► This site has millions of e-books that you can download any of them for free  >>>> [PDF_Drive](https://www.pdfdrive.com/)
 
-<br>►►►►►► Notice: This GoogleDrive and the whole repo up-to-date (under update) ◄◄◄◄◄◄
+<br>►►►►►► Notice: The GoogleDrive of mine and the whole repo up-to-date (under update) ◄◄◄◄◄◄
 # Roadmap
 This roadmap related to Data Science, Machine Learning, Deep Learning, Data Engineer and Big Data Engineer.
 Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
