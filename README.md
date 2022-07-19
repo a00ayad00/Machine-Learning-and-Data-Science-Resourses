@@ -66,7 +66,7 @@ Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-road
 
 `Abhishek Thakur`: [link](https://www.youtube.com/c/AbhishekThakurAbhi)
 
-# Free courses on Udacity & Coursera & Udemy
+# Free courses
 
 200 Udacity free courses on ML and Data Science >>>> [link](https://www.mltut.com/udacity-free-courses-on-machine-learning/)
 
@@ -74,7 +74,7 @@ Free Coursera Courses for Data Science, you can check these 38 Completely Free D
 
 70 Free Online Courses for Data Science to Advance Your Skills in 2022 >>>> [link](https://www.mltut.com/free-online-courses-for-data-science/)
 
-[AI Courses from Intel](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/courses.html)
+AI Courses and Certifications from Inte >>>> [link](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/courses.html)
 
 **See my Google Drive for more courses**
 
