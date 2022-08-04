@@ -87,4 +87,4 @@ AI Courses and Certifications from Intel >>>> [link](https://www.intel.com/conte
 <br>[resume quality score](https://resume.naukri.com/resume-quality-score)
 <br>[CV review](https://www.topcv.co.uk/)
 
-<br>[Intellegent CV for Android](https://play.google.com/store/apps/dev?id=6399541521943653846)
+<br>[Intellegent CV for Android](https://play.google.com/store/apps/details?id=icv.resume.curriculumvitae)
