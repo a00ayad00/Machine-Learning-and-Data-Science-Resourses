@@ -23,7 +23,8 @@ Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-road
 
 4. Data Structures, Algorithms, and Machine Learning Optimization  --->  [link](https://downloadly.net/2021/24/46557/07/data-structures-algorithms-and-machine-learning-optimization-livelessons/23/)
 
-**Arabic Resourse: [link](https://www.youtube.com/channel/UCzYgAyyZTLfnLFjQexOKxbQ/playlists)**
+<br>**A nice site for learn the math : [maths is fun](https://mathsisfun.com/)**
+<br>**Arabic Resourse: [link](https://www.youtube.com/channel/UCzYgAyyZTLfnLFjQexOKxbQ/playlists)**
 
 
 
@@ -31,7 +32,6 @@ Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-road
 [Mustafa Othman](https://www.youtube.com/c/MustafaOthman/playlists) and [Hesham Asem](https://www.youtube.com/c/HeshamAsem/playlists) for ML
 <br>[Codzilla](https://www.youtube.com/watch?v=h3VCQjyaLws&list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) and [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) for Python
 <br>[MS SQL Server](https://www.youtube.com/watch?v=-_wLgK0IKfo&list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) for SQL
-<br>A nice site for learn the math : [maths is fun](https://mathsisfun.com/)
 # Some YouTube channels in English to teach data science and artificial intelligence (An alternative to paid courses) 
 
 `Python Simplified`: [link](https://www.youtube.com/c/PythonSimplified)
