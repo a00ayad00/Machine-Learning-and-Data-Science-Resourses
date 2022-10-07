@@ -11,7 +11,7 @@
 This roadmap related to Data Science, Machine Learning, Deep Learning, Data Engineer and Big Data Engineer.
 Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
 <br>You can take a peek at this [doc](https://drive.google.com/file/d/1pBihV-xJWVWX6eZy1nmt1q3zsCD3xiDN/view?usp=sharing), too.
-# You have to learn all this before ML and DL
+# You have to learn the maths before ML and DL
 1. Linear Algebra for Machine Learning  --->  [link](https://downloadly.net/2021/02/58961/12/linear-algebra-for-machine-learning/21/
 )
 
@@ -31,7 +31,7 @@ Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-road
 [Mustafa Othman](https://www.youtube.com/c/MustafaOthman/playlists) and [Hesham Asem](https://www.youtube.com/c/HeshamAsem/playlists) for ML
 <br>[Codzilla](https://www.youtube.com/watch?v=h3VCQjyaLws&list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) and [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) for Python
 <br>[MS SQL Server](https://www.youtube.com/watch?v=-_wLgK0IKfo&list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) for SQL
-
+<br>A nice site for learn the math : [maths is fun](https://mathsisfun.com/)
 # Some YouTube channels in English to teach data science and artificial intelligence (An alternative to paid courses) 
 
 `Python Simplified`: [link](https://www.youtube.com/c/PythonSimplified)
