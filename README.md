@@ -24,7 +24,7 @@ Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-road
 4. Data Structures, Algorithms, and Machine Learning Optimization  --->  [link](https://downloadly.net/2021/24/46557/07/data-structures-algorithms-and-machine-learning-optimization-livelessons/23/)
 
 <br>**A nice site for learn the math : [maths is fun](https://mathsisfun.com/)**
-<br>**Arabic sourse: [link](https://www.youtube.com/channel/UCzYgAyyZTLfnLFjQexOKxbQ/playlists)**
+<br>**Arabic sourse: [link](https://www.youtube.com/channel/UCzYgAyyZTLfnLFjQexOKxbQ/playlists) and its material from [here](https://drive.google.com/drive/folders/14Yv6_UWRV4nefdq-B3TK706dfYnAwzGK)**
 
 
 
