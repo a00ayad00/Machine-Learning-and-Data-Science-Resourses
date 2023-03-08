@@ -79,7 +79,7 @@ AI Courses and Certifications from Intel >>>> [link](https://www.intel.com/conte
 **See my Google Drive for more courses from [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc)**
 
 # Papers With Code
-See from [here](https://paperswithcode.com/sota)
+**See from [here](https://paperswithcode.com/sota)**
 
 # How to create your own resume?
 [FlowCV](https://app.flowcv.com/)
@@ -89,7 +89,6 @@ See from [here](https://paperswithcode.com/sota)
 <br>[Template on my Drive](https://drive.google.com/drive/folders/1duhn2op_WsKVDuq6R6Y_9s3MzcDfJsfl?usp=sharing)
 <br>[resume quality score](https://resume.naukri.com/resume-quality-score)
 <br>[CV review](https://www.topcv.co.uk/)
-
 <br>[Intellegent CV for Android](https://play.google.com/store/apps/details?id=icv.resume.curriculumvitae)
 
 # Job Search
