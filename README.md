@@ -28,10 +28,12 @@ Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-road
 
 
 
-# Arabic channels
-[Mustafa Othman](https://www.youtube.com/c/MustafaOthman/playlists) and [Hesham Asem](https://www.youtube.com/c/HeshamAsem/playlists) for ML
-<br>[Codzilla](https://www.youtube.com/watch?v=h3VCQjyaLws&list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) and [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) for Python
-<br>[MS SQL Server](https://www.youtube.com/watch?v=-_wLgK0IKfo&list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) for SQL
+# Arabic Courses on YouTube
+For ML >>> [Mustafa Othman](https://www.youtube.com/c/MustafaOthman/playlists) and [Hesham Asem](https://www.youtube.com/c/HeshamAsem/playlists)
+<br>For Python >>> [Codzilla](https://www.youtube.com/watch?v=h3VCQjyaLws&list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ), [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs), Python [part1](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4hY1QqDjPYUvDsxjfh9np7DjBwAg&index=3) and [part2](https://www.youtube.com/watch?v=mlbe7Vxr7yA&list=PLrooD4hY1QqDjPYUvDsxjfh9np7DjBwAg&index=4)
+<br>For SQL >>> [MS SQL Server](https://www.youtube.com/watch?v=-_wLgK0IKfo&list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
+<br>For Git and GitHub >>> [Git&GitHub](https://www.youtube.com/watch?v=Q6G-J54vgKc&list=PLrooD4hY1QqDjPYUvDsxjfh9np7DjBwAg&index=2)
+<br>For Docker and Kubernetes >>> [Docker](https://www.youtube.com/watch?v=PrusdhS2lmo&list=PLrooD4hY1QqADSWBJISGAq_qEPIed550b)
 # Some YouTube channels in English to teach data science and artificial intelligence (An alternative to paid courses) 
 
 `Python Simplified`: [link](https://www.youtube.com/c/PythonSimplified)
