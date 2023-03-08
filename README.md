@@ -76,7 +76,10 @@ Free Coursera Courses for Data Science, you can check these 38 Completely Free D
 
 AI Courses and Certifications from Intel >>>> [link](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/courses.html)
 
-**See my Google Drive for more courses**
+**See my Google Drive for more courses from [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc)**
+
+# Papers With Code
+See from [here](https://paperswithcode.com/sota)
 
 # How to create your own resume?
 [FlowCV](https://app.flowcv.com/)
@@ -88,3 +91,8 @@ AI Courses and Certifications from Intel >>>> [link](https://www.intel.com/conte
 <br>[CV review](https://www.topcv.co.uk/)
 
 <br>[Intellegent CV for Android](https://play.google.com/store/apps/details?id=icv.resume.curriculumvitae)
+
+# Job Search
+[trabajo](https://eg.trabajo.org/)
+<br>[Arabic Countries](https://sarii3.com/%D9%88%D8%B8%D8%A7%D8%A6%D9%81)
+<br>[Wazzuf](https://wuzzuf.net/)
