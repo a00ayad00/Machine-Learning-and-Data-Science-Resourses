@@ -34,6 +34,23 @@ For ML >>> [Mustafa Othman](https://www.youtube.com/c/MustafaOthman/playlists) a
 <br>For SQL >>> [MS SQL Server](https://www.youtube.com/watch?v=-_wLgK0IKfo&list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
 <br>For Git and GitHub >>> [Git&GitHub](https://www.youtube.com/watch?v=Q6G-J54vgKc&list=PLrooD4hY1QqDjPYUvDsxjfh9np7DjBwAg&index=2)
 <br>For Docker and Kubernetes >>> [Docker](https://www.youtube.com/watch?v=PrusdhS2lmo&list=PLrooD4hY1QqADSWBJISGAq_qEPIed550b)
+
+# ITI Material and Preparation
+IQ Preparation
+<br>https://iqplus.adel.dev/
+<br>English Preparation
+<br>https://m.englishteststore.net/
+<br><br>IQ Books
+<br>https://drive.google.com/drive/folders/1Z1gcSMeU3Qa7txQFgGtrW43HGNoZ6pxg?fbclid=IwAR23T0H7GjjqF1Dm37ut6kJJnqAuzfVuJTWII4HNVl3Mb0QnlcHbj6hGV8g
+<br>ITI Books Material
+<br>https://drive.google.com/drive/folders/1G-3t8bU8-xo3yOsPfUhwvUsa32mrB694
+<br>ITI Mansoura 41
+<br>https://drive.google.com/drive/folders/1vl14acjmHok8l-OkoQ2erOZkGJdRlE7q
+<br>.Net and Cloud Technology
+<br>https://mega.nz/folder/cLwmRBIY#fY_FDTPKkjD5odU-oQ4PBw
+<br>Other Folder
+<br>https://drive.google.com/drive/mobile/folders/14gzXRhSY7SU0mzWhs0L-AZsxPGWlloR4?fbclid=IwAR1O6k8H5DZTUft9oVhRWvUBfDIaqcmLnSUSryadoK3apqsvuqsBPVOcooI 
+
 # Some YouTube channels in English to teach data science and artificial intelligence (An alternative to paid courses) 
 
 `Python Simplified`: [link](https://www.youtube.com/c/PythonSimplified)
