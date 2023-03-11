@@ -99,9 +99,17 @@ AI Courses and Certifications from Intel >>>> [link](https://www.intel.com/conte
 
 **See my Google Drive for more courses from [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc)**
 
-# Papers With Code
-**See from [here](https://paperswithcode.com/sota)**
-
+# Important Websites
+### Papers With Code: https://paperswithcode.com/sota
+### Computer Vision:
+Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
+<br>Projects Store >>> https://store.augmentedstartups.com/
+<br>Open Images Dataset >>> https://github.com/augmentedstartups/OIDv4_ToolKit
+### NLP: https://huggingface.co/
+### Competetions, datasets and real-world problems:
+Kaggle >>> https://www.kaggle.com/
+<br>Zindi >>> https://zindi.africa/
+<br>Omdena >>> https://omdena.com/
 # How to create your own resume?
 [FlowCV](https://app.flowcv.com/)
 <br>[Canva](https://www.canva.com/)
