@@ -12,17 +12,7 @@ This roadmap related to Data Science, Machine Learning, Deep Learning, Data Engi
 Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
 <br>You can take a peek at this [doc](https://drive.google.com/file/d/1pBihV-xJWVWX6eZy1nmt1q3zsCD3xiDN/view?usp=sharing), too.
 # You have to learn the maths before ML and DL
-1. Linear Algebra for Machine Learning  --->  [link](https://downloadly.net/2021/02/58961/12/linear-algebra-for-machine-learning/21/
-)
-
-2. Calculus for Machine Learning  --->  [link](https://downloadly.net/2021/10/43515/06/informit-calculus-for-machine-learning-livelessons-video-training/20/
-)
-
-3. Probability and Statistics for Machine Learning  --->  [link](https://downloadly.net/2021/28/44821/06/probability-and-statistics-for-machine-learning-livelessons/23/
-)
-
-4. Data Structures, Algorithms, and Machine Learning Optimization  --->  [link](https://downloadly.net/2021/24/46557/07/data-structures-algorithms-and-machine-learning-optimization-livelessons/23/)
-
+**See John Krohn sessions from [here](https://downloadly.ir/tag/jon-krohn/)**
 <br>**A nice site for learn the math : [maths is fun](https://mathsisfun.com/)**
 <br>**Arabic sourse: [link](https://www.youtube.com/channel/UCzYgAyyZTLfnLFjQexOKxbQ/playlists) and its material from [here](https://drive.google.com/drive/folders/14Yv6_UWRV4nefdq-B3TK706dfYnAwzGK)**
 
