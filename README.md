@@ -45,6 +45,8 @@ IQ Preparation
 
 # Some YouTube channels in English to teach data science and artificial intelligence (An alternative to paid courses) 
 
+`Murtazas`: On of the best channels for Computer Vision>>>> [link](https://www.youtube.com/@murtazasworkshop)
+
 `Python Simplified`: [link](https://www.youtube.com/c/PythonSimplified)
 
 `Krish Naik`: The best channel out there >>>> [link](https://www.youtube.com/user/krishnaik06)
