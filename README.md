@@ -82,6 +82,7 @@ IQ Preparation
 # Free courses
 
 200 Udacity free courses on ML and Data Science >>>> [link](https://www.mltut.com/udacity-free-courses-on-machine-learning/)
+<br>Learn from georgia-tech on Udacity >>>> [link](https://www.udacity.com/georgia-tech?s=08)
 
 Free Coursera Courses for Data Science, you can check these 38 Completely Free Data Science Coursera Courses >>>> [link](https://lnkd.in/gdqM4Cyf)
 
