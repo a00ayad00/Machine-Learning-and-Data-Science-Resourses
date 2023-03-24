@@ -102,6 +102,7 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 Kaggle >>> https://www.kaggle.com/
 <br>Zindi >>> https://zindi.africa/
 <br>Omdena >>> https://omdena.com/
+<br>lablab >>> https://lablab.ai/event
 # How to create your own resume?
 [FlowCV](https://app.flowcv.com/)
 <br>[Canva](https://www.canva.com/)
