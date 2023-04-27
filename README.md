@@ -121,4 +121,5 @@ Kaggle >>> https://www.kaggle.com/
 <br>[Arabic Countries](https://sarii3.com/%D9%88%D8%B8%D8%A7%D8%A6%D9%81)
 <br>[Wazzuf](https://wuzzuf.net/)
 <br>[SupportFinity](https://supportfinity.com/)
+<br>[foundit](https://www.foundit.in/zuno/?utm_source=affiliate&utm_medium=di_summer&utm_campaign=pra_zuno&utm_id=zuno_tg)
 <br>Excel Sheets for [Tech Companies](https://drive.google.com/drive/folders/1TUr2buheDCLBlNVMANpXOlmk-mdLuMdr)
