@@ -102,7 +102,7 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>Projects Store >>> https://store.augmentedstartups.com/
 <br>Open Images Dataset >>> https://github.com/augmentedstartups/OIDv4_ToolKit
 ### NLP: https://huggingface.co/
-### Competetions, datasets and real-world problems:
+# Competetions, datasets and real-world problems:
 Kaggle >>> https://www.kaggle.com/
 <br>Zindi >>> https://zindi.africa/
 <br>Omdena >>> https://omdena.com/
