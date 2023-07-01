@@ -102,12 +102,13 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>Projects Store >>> https://store.augmentedstartups.com/
 <br>Open Images Dataset >>> https://github.com/augmentedstartups/OIDv4_ToolKit
 ### NLP: https://huggingface.co/
-# Competetions, datasets and real-world problems:
+# Competetions, Datasets and Real-world problems to gain experience:
 Kaggle >>> https://www.kaggle.com/
 <br>Zindi >>> https://zindi.africa/
 <br>Omdena >>> https://omdena.com/
 <br>lablab >>> https://lablab.ai/event
 <br>techgig >>> https://www.techgig.com/codegladiators/dashboard
+<br>fellowship >>> https://www.fellowship.ai/
 # How to create your own resume?
 [FlowCV](https://app.flowcv.com/)
 <br>[Canva](https://www.canva.com/)
