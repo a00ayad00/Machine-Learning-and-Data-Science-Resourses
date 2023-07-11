@@ -100,7 +100,8 @@ AI Courses and Certifications from Intel >>>> [link](https://www.intel.com/conte
 ### Computer Vision:
 Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>Projects Store >>> https://store.augmentedstartups.com/
-<br>Open Images Dataset >>> https://github.com/augmentedstartups/OIDv4_ToolKit
+<br>Open Images Datasets >>> https://github.com/augmentedstartups/OIDv4_ToolKit
+<br>Open Data Annotation Platform >>> https://www.cvat.ai/
 ### NLP: https://huggingface.co/
 # Competetions, Datasets and Real-world problems to gain experience:
 Kaggle >>> https://www.kaggle.com/
