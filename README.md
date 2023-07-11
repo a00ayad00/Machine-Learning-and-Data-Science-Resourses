@@ -110,6 +110,10 @@ Kaggle >>> https://www.kaggle.com/
 <br>lablab >>> https://lablab.ai/event
 <br>techgig >>> https://www.techgig.com/codegladiators/dashboard
 <br>fellowship >>> https://www.fellowship.ai/
+
+# A guide for Machine Learning Technical Interviews in FAANG Companies
+See the repo from [here](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/README.md?fbclid=IwAR2iEspGAMB_4NBE59ADjwWs3S0mnIG-vzRhIBZl7ZzmJdEjiD89oshB4DI)
+
 # How to create your own resume?
 [FlowCV](https://app.flowcv.com/)
 <br>[Canva](https://www.canva.com/)
