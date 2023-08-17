@@ -16,7 +16,7 @@ Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-road
 **One of the most well known platform in the maths: [Khan Academy](https://www.khanacademy.org/)** 
 <br>**See John Krohn sessions from [here](https://downloadly.ir/tag/jon-krohn/)**
 <br>**A nice site for learn the math: [maths is fun](https://mathsisfun.com/)**
-<br>**Arabic sourse on YouTube from [here](https://www.youtube.com/channel/UCzYgAyyZTLfnLFjQexOKxbQ/playlists).
+<br>**Arabic sourse on YouTube from [here](https://www.youtube.com/channel/UCzYgAyyZTLfnLFjQexOKxbQ/playlists)**
 
 
 
