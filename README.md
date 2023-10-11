@@ -115,6 +115,7 @@ See the repo from [here](https://github.com/alirezadir/Machine-Learning-Intervie
 
 # How to create your own resume?
 [FlowCV](https://app.flowcv.com/)
+<br>[Rezi](https://app.rezi.ai/)
 <br>[Canva](https://www.canva.com/)
 <br>[Kickresume](https://www.kickresume.com)
 <br>[ResumeNow](https://www.resume-now.com/build-resume/onboarding/targetcountry)
