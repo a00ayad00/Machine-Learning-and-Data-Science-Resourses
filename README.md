@@ -92,6 +92,8 @@ Free Coursera Courses for Data Science, you can check these 38 Completely Free D
 
 AI Courses and Certifications from Intel >>>> [link](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/courses.html)
 
+AWS Cloud >>>> [link1](https://mega.nz/folder/0HZyhK4D#GfTl0190mEA5Z01g7a2gUQ) >>>> [link2](https://mega.nz/folder/VrJR2IAK#jY9pWbQd1bXeRmU7LlBcPg)
+
 **See my Google Drive for more courses from [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc)**
 
 # Important Websites
