@@ -6,6 +6,8 @@
 
 ► This site has millions of e-books that you can download any of them for free  >>>> [PDF_Drive](https://www.pdfdrive.com/)
 
+► Now, you can read the paid blogs on [Medium](https://medium.com/) for free  >>>> [freedium](https://freedium.cfd/)
+
 # Roadmap
 This roadmap related to Data Science, Machine Learning, Deep Learning, Data Engineer and Big Data Engineer.
 Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
@@ -93,6 +95,7 @@ Free Coursera Courses for Data Science, you can check these 38 Completely Free D
 AI Courses and Certifications from Intel >>>> [link](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/courses.html)
 
 AWS Cloud >>>> [link1](https://mega.nz/folder/0HZyhK4D#GfTl0190mEA5Z01g7a2gUQ) >>>> [link2](https://mega.nz/folder/VrJR2IAK#jY9pWbQd1bXeRmU7LlBcPg)
+<br> Prepare for the exam from [here](https://www.examtopics.com/)
 
 **See my Google Drive for more courses from [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc)**
 
@@ -111,6 +114,7 @@ Kaggle >>> https://www.kaggle.com/
 <br>lablab >>> https://lablab.ai/event
 <br>techgig >>> https://www.techgig.com/codegladiators/dashboard
 <br>fellowship >>> https://www.fellowship.ai/
+<br>Docker Projects in Data Science >>> [Link](https://levelup.gitconnected.com/docker-for-data-science-projects-a-beginner-friendly-introduction-58e523ebbacb)
 
 # A guide for Machine Learning Technical Interviews in FAANG Companies
 See the repo from [here](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/README.md?fbclid=IwAR2iEspGAMB_4NBE59ADjwWs3S0mnIG-vzRhIBZl7ZzmJdEjiD89oshB4DI)
