@@ -106,7 +106,7 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>Projects Store >>> https://store.augmentedstartups.com/
 <br>Open Images Datasets >>> https://github.com/augmentedstartups/OIDv4_ToolKit
 <br>Open Data Annotation Platform >>> https://www.cvat.ai/
-<br>Annotation Tool for segmentation >>> https://github.com/NaturalIntelligence/imglab
+<br>Annotation Tool for segmentation and Object Detection >>> https://github.com/NaturalIntelligence/imglab
 ### NLP: https://huggingface.co/
 # Competetions, Datasets and Real-world problems to gain experience:
 Kaggle >>> https://www.kaggle.com/
