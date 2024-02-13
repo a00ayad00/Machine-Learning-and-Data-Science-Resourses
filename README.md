@@ -99,13 +99,14 @@ AWS Cloud >>>> [link1](https://mega.nz/folder/0HZyhK4D#GfTl0190mEA5Z01g7a2gUQ) >
 
 **See my Google Drive for more courses from [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc)**
 
-# Important Websites
+# Important Websites and Tools
 ### Papers With Code: https://paperswithcode.com/sota
 ### Computer Vision:
 Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>Projects Store >>> https://store.augmentedstartups.com/
 <br>Open Images Datasets >>> https://github.com/augmentedstartups/OIDv4_ToolKit
 <br>Open Data Annotation Platform >>> https://www.cvat.ai/
+<br>Annotation Tool for segmentation >>> https://github.com/NaturalIntelligence/imglab
 ### NLP: https://huggingface.co/
 # Competetions, Datasets and Real-world problems to gain experience:
 Kaggle >>> https://www.kaggle.com/
