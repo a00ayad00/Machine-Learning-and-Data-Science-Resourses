@@ -108,13 +108,15 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>Open Data Annotation Platform >>> https://www.cvat.ai/
 <br>Annotation Tool for segmentation and Object Detection >>> https://github.com/NaturalIntelligence/imglab
 ### NLP: https://huggingface.co/
+### Model Training:
+[Nebius](https://nebius.ai/?utm_medium=paid_email&utm_source=alphasignal&utm_campaign=checkpointing) is a cloud platform specifically designed to train AI models. They provide you with the latest and greatest GPUs such as the NVIDIA H100 to manage intensive AI workloads.
 # Competetions, Datasets and Real-world problems to gain experience:
-Kaggle >>> https://www.kaggle.com/
-<br>Zindi >>> https://zindi.africa/
-<br>Omdena >>> https://omdena.com/
-<br>lablab >>> https://lablab.ai/event
-<br>techgig >>> https://www.techgig.com/codegladiators/dashboard
-<br>fellowship >>> https://www.fellowship.ai/
+[Kaggle](https://www.kaggle.com/)
+<br>[Zindi](https://zindi.africa/)
+<br>[Omdena](https://omdena.com/)
+<br>[lablab](https://lablab.ai/event)
+<br>[techgig](https://www.techgig.com/codegladiators/dashboard)
+<br>[fellowship](https://www.fellowship.ai/)
 <br>Docker Projects in Data Science >>> [Link](https://levelup.gitconnected.com/docker-for-data-science-projects-a-beginner-friendly-introduction-58e523ebbacb)
 
 # A guide for Machine Learning Technical Interviews in FAANG Companies
