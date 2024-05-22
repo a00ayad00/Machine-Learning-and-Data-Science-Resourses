@@ -110,6 +110,7 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 ### NLP: https://huggingface.co/
 ### Model Training:
 [Nebius](https://nebius.ai/?utm_medium=paid_email&utm_source=alphasignal&utm_campaign=checkpointing) is a cloud platform specifically designed to train AI models. They provide you with the latest and greatest GPUs such as the NVIDIA H100 to manage intensive AI workloads.
+<br>Accelerate your training and inference workloads with dedicated GPU instances powered by NVIDIA’s H100 Tensor Core available at [Latitude.sh's](https://link.alphasignal.ai/4Jv6Cv) platform.
 # Competetions, Datasets and Real-world problems to gain experience:
 [Kaggle](https://www.kaggle.com/)
 <br>[Zindi](https://zindi.africa/)
