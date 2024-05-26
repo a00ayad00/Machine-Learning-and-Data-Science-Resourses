@@ -4,7 +4,7 @@
 
 ► A big Drive in data science >>>> [link](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ)
 
-► This site has millions of e-books that you can download any of them for free  >>>> [PDF_Drive](https://www.pdfdrive.com/)
+► Sites have millions of E-books that you can download any of them for free  >>>> [PDF_Drive](https://www.pdfdrive.com/), [Dokumen_Pub](https://dokumen.pub/)
 
 ► Now, you can read the paid blogs on [Medium](https://medium.com/) for free  >>>> [freedium](https://freedium.cfd/)
 
