@@ -127,7 +127,7 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>[TypeTest](https://typetest.io/)
 <br>[TheTypingCat](https://thetypingcat.com/typing-speed-test)
 
-# How to create your own resume?
+# Create your own resume?
 [FlowCV](https://app.flowcv.com/)
 <br>[Rezi](https://app.rezi.ai/)
 <br>[Canva](https://www.canva.com/)
