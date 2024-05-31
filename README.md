@@ -120,8 +120,12 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>[fellowship](https://www.fellowship.ai/)
 <br>Docker Projects in Data Science >>> [Link](https://levelup.gitconnected.com/docker-for-data-science-projects-a-beginner-friendly-introduction-58e523ebbacb)
 
-# A guide for Machine Learning Technical Interviews in FAANG Companies
-See the repo from [here](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/README.md?fbclid=IwAR2iEspGAMB_4NBE59ADjwWs3S0mnIG-vzRhIBZl7ZzmJdEjiD89oshB4DI)
+# Learn how to type blindly
+[TypingClub](https://www.typingclub.com/)
+<br>[MonkeyType](https://monkeytype.com/)
+<br>[Keybr](https://www.keybr.com/)
+<br>[TypeTest](https://typetest.io/)
+<br>[TheTypingCat](https://thetypingcat.com/typing-speed-test)
 
 # How to create your own resume?
 [FlowCV](https://app.flowcv.com/)
@@ -136,6 +140,7 @@ See the repo from [here](https://github.com/alirezadir/Machine-Learning-Intervie
 # Practice live interviews with peers
 [Interview Warmup](https://grow.google/certificates/interview-warmup/)
 <br> [Pramp](https://www.pramp.com/#/)
+### A Repo guide for Machine Learning Technical Interviews in FAANG Companies >> [Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/README.md?fbclid=IwAR2iEspGAMB_4NBE59ADjwWs3S0mnIG-vzRhIBZl7ZzmJdEjiD89oshB4DI)
 # Job Search
 [trabajo](https://eg.trabajo.org/)
 <br>[Arabic Countries](https://sarii3.com/%D9%88%D8%B8%D8%A7%D8%A6%D9%81)
