@@ -101,6 +101,7 @@ AWS Cloud >>>> [link1](https://mega.nz/folder/0HZyhK4D#GfTl0190mEA5Z01g7a2gUQ) >
 
 # Important Websites and Tools
 ### Papers With Code: https://paperswithcode.com/sota
+### Deep Learning: https://udlbook.github.io/udlbook/
 ### Computer Vision:
 Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>Projects Store >>> https://store.augmentedstartups.com/
