@@ -99,7 +99,7 @@ AWS Cloud >>>> [link1](https://mega.nz/folder/0HZyhK4D#GfTl0190mEA5Z01g7a2gUQ) >
 
 **See my Google Drive for more courses from [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc)**
 
-# Important Websites and Tools
+# Important Websites and Tools for AI
 ### Papers With Code: https://paperswithcode.com/sota
 ### Deep Learning: https://udlbook.github.io/udlbook/
 ### Computer Vision:
@@ -152,3 +152,6 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>[foundit](https://www.foundit.in/zuno/?utm_source=affiliate&utm_medium=di_summer&utm_campaign=pra_zuno&utm_id=zuno_tg)
 <br>[modulus](https://korastats.modulus.biz/index.php?module=rec&page=Public&action=ListVacancies)
 <br>Excel Sheets for [Tech Companies](https://drive.google.com/drive/folders/1TUr2buheDCLBlNVMANpXOlmk-mdLuMdr)
+# For anyone working in technology who wants to travel and work in large companies
+### [Manara](https://app.manara.tech/)
+
