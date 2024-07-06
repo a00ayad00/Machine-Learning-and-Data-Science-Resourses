@@ -119,6 +119,7 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>[lablab](https://lablab.ai/event)
 <br>[techgig](https://www.techgig.com/codegladiators/dashboard)
 <br>[fellowship](https://www.fellowship.ai/)
+<br>[DrivenData](https://www.drivendata.org/)
 <br>Docker Projects in Data Science >>> [Link](https://levelup.gitconnected.com/docker-for-data-science-projects-a-beginner-friendly-introduction-58e523ebbacb)
 
 # Learn how to type blindly
