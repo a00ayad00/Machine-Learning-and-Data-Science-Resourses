@@ -130,16 +130,17 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>[TypeTest](https://typetest.io/)
 <br>[TheTypingCat](https://thetypingcat.com/typing-speed-test)
 
-# Create your own resume?
+# Create your own resume and evaluate it
 [FlowCV](https://app.flowcv.com/)
 <br>[Rezi](https://app.rezi.ai/)
 <br>[Canva](https://www.canva.com/)
 <br>[Kickresume](https://www.kickresume.com)
 <br>[ResumeNow](https://www.resume-now.com/build-resume/onboarding/targetcountry)
+<br>[Intellegent CV for Android](https://play.google.com/store/apps/details?id=icv.resume.curriculumvitae)
 <br>[Template on my Drive](https://drive.google.com/drive/folders/1duhn2op_WsKVDuq6R6Y_9s3MzcDfJsfl?usp=sharing)
 <br>[resume quality score](https://resume.naukri.com/resume-quality-score)
 <br>[CV review](https://www.topcv.co.uk/)
-<br>[Intellegent CV for Android](https://play.google.com/store/apps/details?id=icv.resume.curriculumvitae)
+<br>[Resume Worded](https://resumeworded.com/)
 # Practice live interviews with peers
 [Interview Warmup](https://grow.google/certificates/interview-warmup/)
 <br> [Pramp](https://www.pramp.com/#/)
