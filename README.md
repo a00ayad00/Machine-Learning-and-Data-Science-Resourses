@@ -49,7 +49,7 @@ IQ Preparation
 
 # Some YouTube channels in English to teach data science and artificial intelligence (An alternative to paid courses) 
 
-`Murtazas`: On of the best channels for Computer Vision>>>> [link](https://www.youtube.com/@murtazasworkshop)
+`Murtazas`: One of the best channels for Computer Vision>>>> [link](https://www.youtube.com/@murtazasworkshop)
 
 `Python Simplified`: [link](https://www.youtube.com/c/PythonSimplified)
 
@@ -61,7 +61,7 @@ IQ Preparation
 
 `codebasics`: One of the best channels in Data Science and NLP >>>> [link](https://www.youtube.com/c/codebasics)
 
-`CodeEmporium`: A very distinguished channel in Data Scienc >>>> [link](https://www.youtube.com/c/CodeEmporium)
+`CodeEmporium`: A very distinguished channel in Data science >>>> [link](https://www.youtube.com/c/CodeEmporium)
 
 `Python Engineer`: A distinguished channel with its advanced topics >>>> [link](https://www.youtube.com/c/PythonEngineer)
 
@@ -95,7 +95,7 @@ Free Coursera Courses for Data Science, you can check these 38 Completely Free D
 AI Courses and Certifications from Intel >>>> [link](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/courses.html)
 
 AWS Cloud >>>> [link1](https://mega.nz/folder/0HZyhK4D#GfTl0190mEA5Z01g7a2gUQ) >>>> [link2](https://mega.nz/folder/VrJR2IAK#jY9pWbQd1bXeRmU7LlBcPg)
-<br> Prepare for the exam from [here](https://www.examtopics.com/)
+<br> For Courses and Questions and Answers to prepare well for the exam, see my blog post on [Dev](https://dev.to/ayad/how-did-i-pass-the-aws-machine-learning-speciality-exam-23io) or on [Medium](https://a00ayad00.medium.com/how-did-i-pass-the-aws-machine-learning-speciality-exam-575e7529b070)
 
 **See my Google Drive for more courses from [here](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc)**
 
