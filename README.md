@@ -101,7 +101,9 @@ AWS Cloud >>>> [link1](https://mega.nz/folder/0HZyhK4D#GfTl0190mEA5Z01g7a2gUQ) >
 
 # Important Websites and Tools for AI
 ### Papers With Code: https://paperswithcode.com/sota
-### Deep Learning: https://udlbook.github.io/udlbook/
+### Deep Learning:
+DL Book >>> https://udlbook.github.io/udlbook/
+<br> GitHb-like site for ML workflow >>> https://dagshub.com/
 ### Computer Vision:
 Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>Projects Store >>> https://store.augmentedstartups.com/
