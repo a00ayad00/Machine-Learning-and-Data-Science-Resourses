@@ -156,6 +156,7 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>[Foundit](https://www.foundit.in/zuno/?utm_source=affiliate&utm_medium=di_summer&utm_campaign=pra_zuno&utm_id=zuno_tg)
 <br>[Modulus](https://korastats.modulus.biz/index.php?module=rec&page=Public&action=ListVacancies)
 <br>[Braintrust](https://app.usebraintrust.com/jobs/)
+<br>[Indeed](https://eg.indeed.com/?from=gnav-jobsearch--indeedmobile)
 <br>Excel Sheets for [Tech Companies](https://drive.google.com/drive/folders/1TUr2buheDCLBlNVMANpXOlmk-mdLuMdr)
 # For anyone working in technology who wants to travel and work in large companies
 <br><br>[Manara](https://app.manara.tech/) >>> This simply allows you to join a large tech company. You apply, enter the learning path, have technical and behavioral mock interviews, and then access the career platform.
