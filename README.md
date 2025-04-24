@@ -8,6 +8,8 @@
 
 ► Now, you can read the paid blogs on [Medium](https://medium.com/) for free  >>>> [freedium](https://freedium.cfd/)
 
+► Check Out All Amazing Softwares Products For Windows, Ebooks, and courses for free  >>>> [FileCR](https://filecr.com/en/)
+
 # Roadmap
 This roadmap related to Data Science, Machine Learning, Deep Learning, Data Engineer and Big Data Engineer.
 Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
