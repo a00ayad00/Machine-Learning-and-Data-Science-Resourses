@@ -137,6 +137,7 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 
 # Create your own resume and evaluate it
 [FlowCV](https://app.flowcv.com/)
+<br>[Wozber](https://www.wozber.com/en-us)
 <br>[Rezi](https://app.rezi.ai/)
 <br>[Canva](https://www.canva.com/)
 <br>[Kickresume](https://www.kickresume.com)
