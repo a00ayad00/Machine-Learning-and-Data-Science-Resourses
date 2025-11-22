@@ -2,13 +2,13 @@
 
 ► My Google Drive >>>> [link](https://drive.google.com/drive/folders/1eAYEvcnd66wMYQqNXDihIdFwZx5vdLFc).
 
-► A big Drive in data science >>>> [link](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ)
+► A big Drive in data science >>>> [link](https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ).
 
-► Sites have millions of E-books that you can download any of them for free  >>>> [PDF_Drive](https://www.pdfdrive.com/), [Dokumen_Pub](https://dokumen.pub/), [refhub](https://refhub.ir/), [filecr](https://filecr.com/en-us/)
+► Sites have millions of E-books that you can download any of them for free  >>>> [PDF_Drive](https://www.pdfdrive.com/), [Dokumen_Pub](https://dokumen.pub/), [refhub](https://refhub.ir/), [filecr](https://filecr.com/en-us/), [oceanofpdf](https://oceanofpdf.com/).
 
-► Now, you can read the paid blogs on [Medium](https://medium.com/) for free  >>>> [freedium](https://freedium.cfd/)
+► Now, you can read the paid blogs on [Medium](https://medium.com/) for free  >>>> [freedium](https://freedium.cfd/).
 
-► Check Out All Amazing Softwares Products For Windows, Ebooks, and courses for free  >>>> [FileCR](https://filecr.com/en/)
+► Check Out All Amazing Softwares Products For Windows, Ebooks, and courses for free  >>>> [FileCR](https://filecr.com/en/).
 
 # Roadmap
 This roadmap related to Data Science, Machine Learning, Deep Learning, Data Engineer and Big Data Engineer.
