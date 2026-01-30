@@ -112,7 +112,15 @@ Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
 <br>Open Images Datasets >>> https://github.com/augmentedstartups/OIDv4_ToolKit
 <br>Open Data Annotation Platform >>> https://www.cvat.ai/
 <br>Annotation Tool for segmentation and Object Detection >>> https://github.com/NaturalIntelligence/imglab
-### NLP: https://huggingface.co/
+### NLP:
+https://huggingface.co/
+<br>https://www.langchain.com/
+<br>**If you want to calculate the RAM requirements to load the LLM:**
+<br>https://huggingface.co/spaces/Vokturz/can-it-run-llm
+<br>https://vram.asmirnov.xyz/
+<br>https://huggingface.co/spaces/hf-accelerate/model-memory-usage
+
+
 ### Model Training:
 [Nebius](https://nebius.ai/?utm_medium=paid_email&utm_source=alphasignal&utm_campaign=checkpointing) is a cloud platform specifically designed to train AI models. They provide you with the latest and greatest GPUs such as the NVIDIA H100 to manage intensive AI workloads.
 <br><br>Accelerate your training and inference workloads with dedicated GPU instances powered by NVIDIA’s H100 Tensor Core available at [Latitude.sh's](https://link.alphasignal.ai/4Jv6Cv) platform.
