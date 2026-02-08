@@ -155,6 +155,7 @@ https://huggingface.co/
 <br>[Template on my Drive](https://drive.google.com/drive/folders/1duhn2op_WsKVDuq6R6Y_9s3MzcDfJsfl?usp=sharing)
 <br>[resume quality score](https://resume.naukri.com/resume-quality-score)
 <br>[CV review](https://www.topcv.co.uk/)
+<br>[Resume Checker](https://www.resumego.net/resume-checker/)
 <br>[Resume Worded](https://resumeworded.com/)
 # Practice live interviews with peers
 [Interview Warmup](https://grow.google/certificates/interview-warmup/)
@@ -174,6 +175,6 @@ https://huggingface.co/
 <br>Excel Sheets for [Tech Companies](https://drive.google.com/drive/folders/1TUr2buheDCLBlNVMANpXOlmk-mdLuMdr)
 # For anyone working in technology who wants to travel and work in large companies
 <br><br>[Manara](https://app.manara.tech/) >>> This simply allows you to join a large tech company. You apply, enter the learning path, have technical and behavioral mock interviews, and then access the career platform.
-<br><br>[SquadIO](https://squadio.com) >>> This is a company that hires people for companies, most of which are in the Gulf, most of the work is remote and payment is in dollars. You apply to them and pass a code test, then a technical interview, and then you enter their pool until they find a company that requires someone with your technical skills, and they connect you with each other and you enter the interview.
-<br><br>[Imagine](https://joinimagine.com) >>> This is a company that hires people for companies in Europe in general and Germany in particular, and they can help with the process with any company, even if it is not through them. Their work is remote, relocate, or onsite. You fill out your information and there is an exam.
+<br><br>[SquadIO](https://squadio.com) >>> This is a company that hires people for companies, most of which are in the Gulf, most of the work is remote, and payment is in dollars. You apply to them and pass a code test, then a technical interview, and then you enter their pool until they find a company that requires someone with your technical skills, and they connect you with each othe,r and you enter the interview.
+<br><br>[Imagine](https://joinimagine.com) >>> This is a company that hires people for companies in Europe in general and Germany in particular, and they can help with the process with any company, even if it is not through them. Their work is remote, relocate, or onsite. You fill out your information, and there is an exam.
 
