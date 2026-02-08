@@ -8,16 +8,16 @@
 
 ► Now, you can read the paid blogs on [Medium](https://medium.com/) for free  >>>> [freedium](https://freedium.cfd/).
 
-► Check Out All Amazing Softwares Products For Windows, Ebooks, and courses for free  >>>> [FileCR](https://filecr.com/en/).
+► Check Out All Amazing Software Products For Windows, Ebooks, and courses for free  >>>> [FileCR](https://filecr.com/en/).
 
 # Roadmap
-This roadmap related to Data Science, Machine Learning, Deep Learning, Data Engineer and Big Data Engineer.
+This roadmap is related to Data Science, Machine Learning, Deep Learning, Data Engineer, and Big Data Engineer.
 Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
 <br>You can take a peek at this [doc](https://drive.google.com/file/d/1pBihV-xJWVWX6eZy1nmt1q3zsCD3xiDN/view?usp=sharing), too.
 
 
 # You have to learn the maths before ML and DL
-**One of the most well known platform in the maths: [Khan Academy](https://www.khanacademy.org/)** 
+**One of the most well known platform in maths: [Khan Academy](https://www.khanacademy.org/)** 
 <br>**See John Krohn sessions from [here](https://downloadly.ir/tag/jon-krohn/)**
 <br>**A nice site for learn the math: [maths is fun](https://mathsisfun.com/)**
 <br>**Arabic sourse on YouTube from [here](https://www.youtube.com/channel/UCzYgAyyZTLfnLFjQexOKxbQ/playlists)**
@@ -44,7 +44,7 @@ IQ Preparation
 <br>https://drive.google.com/drive/folders/1G-3t8bU8-xo3yOsPfUhwvUsa32mrB694
 <br>ITI Mansoura 41
 <br>https://drive.google.com/drive/folders/1vl14acjmHok8l-OkoQ2erOZkGJdRlE7q
-<br>.Net and Cloud Technology
+<br>.NET and Cloud Technology
 <br>https://mega.nz/folder/cLwmRBIY#fY_FDTPKkjD5odU-oQ4PBw
 <br>Other Folder
 <br>https://drive.google.com/drive/mobile/folders/14gzXRhSY7SU0mzWhs0L-AZsxPGWlloR4?fbclid=IwAR1O6k8H5DZTUft9oVhRWvUBfDIaqcmLnSUSryadoK3apqsvuqsBPVOcooI 
@@ -67,13 +67,13 @@ IQ Preparation
 
 `Python Engineer`: A distinguished channel with its advanced topics >>>> [link](https://www.youtube.com/c/PythonEngineer)
 
-`igitalSreeni`: A channel specialized in computer vision and segmentation, and the most important thing in the channel is coding, practical, not theoretical, and it is presented by a very distinguished university professor >>>> [link](https://www.youtube.com/c/DigitalSreeni)
+`DigitalSreeni`: A channel specialized in computer vision and segmentation, and the most important thing in the channel is coding, practical, not theoretical, and it is presented by a very distinguished university professor >>>> [link](https://www.youtube.com/c/DigitalSreeni)
 
 `CODE MENTAL`: [link](https://www.youtube.com/c/CODEMENTAL)
 
 `Lazy Tech`: [link](https://www.youtube.com/c/LazyTech825)
 
-`Normalized Nerd`: Very very special channel >>>> [link](https://www.youtube.com/c/NormalizedNerd)
+`Normalized Nerd`: Very special channel >>>> [link](https://www.youtube.com/c/NormalizedNerd)
 
 `Weights & Biases`: [link](https://www.youtube.com/c/WeightsBiases)
 
@@ -107,7 +107,7 @@ AWS Cloud >>>> [link1](https://mega.nz/folder/0HZyhK4D#GfTl0190mEA5Z01g7a2gUQ) >
 DL Book >>> https://udlbook.github.io/udlbook/
 <br> GitHb-like site for ML workflow >>> https://dagshub.com/
 ### Computer Vision:
-Datasets and ralated-YOLO Requirements >>> https://roboflow.com/
+Datasets and related-YOLO Requirements >>> https://roboflow.com/
 <br>Projects Store >>> https://store.augmentedstartups.com/
 <br>Open Images Datasets >>> https://github.com/augmentedstartups/OIDv4_ToolKit
 <br>Open Data Annotation Platform >>> https://www.cvat.ai/
@@ -122,11 +122,11 @@ https://huggingface.co/
 
 
 ### Model Training:
-[Nebius](https://nebius.ai/?utm_medium=paid_email&utm_source=alphasignal&utm_campaign=checkpointing) is a cloud platform specifically designed to train AI models. They provide you with the latest and greatest GPUs such as the NVIDIA H100 to manage intensive AI workloads.
+[Nebius](https://nebius.ai/?utm_medium=paid_email&utm_source=alphasignal&utm_campaign=checkpointing) is a cloud platform specifically designed to train AI models. They provide you with the latest and greatest GPUs, such as the NVIDIA H100, to manage intensive AI workloads.
 <br><br>Accelerate your training and inference workloads with dedicated GPU instances powered by NVIDIA’s H100 Tensor Core available at [Latitude.sh's](https://link.alphasignal.ai/4Jv6Cv) platform.
 <br><br>[ori.co](https://www.ori.co/) >> The most cost effective, easy-to-use, and customizable [AI native GPU](https://www.ori.co/alphasignal?utm_source=referral&utm_medium=alphasignal&utm_campaign=alphasignal_newsletter) platform. Deploy and manage GPU VMs on-demand.
-<br><br>[lightning.ai](https://lightning.ai/) >> Easily build AI products with all full and low code tools in one place. Access GPUs, train models, deploy and more with zero setup. Focus on data and models - not infrastructure.
-# Competetions, Datasets and Real-world problems to gain experience:
+<br><br>[lightning.ai](https://lightning.ai/) >> Easily build AI products with all full and low code tools in one place. Access GPUs, train models, deploy, and more with zero setup. Focus on data and models - not infrastructure.
+# Competitions, Datasets, and Real-world problems to gain experience:
 [Kaggle](https://www.kaggle.com/)
 <br>[Zindi](https://zindi.africa/)
 <br>[Omdena](https://omdena.com/)
@@ -144,7 +144,8 @@ https://huggingface.co/
 <br>[TheTypingCat](https://thetypingcat.com/typing-speed-test)
 
 # Create your own resume and evaluate it
-[FlowCV](https://app.flowcv.com/)
+[CV Guide](https://cloudy-rainy.notion.site/CV-Resume-Guide-bb08ea5e55ca423f88d8118398ba2972#e0a625f5f8e447cf90579616a3258a4d)
+<br>[FlowCV](https://app.flowcv.com/)
 <br>[Wozber](https://www.wozber.com/en-us)
 <br>[Rezi](https://app.rezi.ai/)
 <br>[Canva](https://www.canva.com/)
