@@ -6,7 +6,7 @@
 
 ► Sites have millions of E-books that you can download any of them for free  >>>> [PDF_Drive](https://www.pdfdrive.com/), [Dokumen_Pub](https://dokumen.pub/), [refhub](https://refhub.ir/), [filecr](https://filecr.com/en-us/), [oceanofpdf](https://oceanofpdf.com/).
 
-► Now, you can read the paid blogs on [Medium](https://medium.com/) for free  >>>> [freedium](https://freedium.cfd/).
+► Now, you can read the paid blogs on [Medium](https://medium.com/) for free  >>>> [freedium](https://freedium-mirror.cfd/).
 
 ► Check Out All Amazing Software Products For Windows, Ebooks, and courses for free  >>>> [FileCR](https://filecr.com/en/).
 
