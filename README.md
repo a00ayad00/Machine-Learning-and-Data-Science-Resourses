@@ -144,7 +144,7 @@ https://huggingface.co/
 <br>[TheTypingCat](https://thetypingcat.com/typing-speed-test)
 
 # Create your own resume and evaluate it
-[CV Guide](https://cloudy-rainy.notion.site/CV-Resume-Guide-bb08ea5e55ca423f88d8118398ba2972#e0a625f5f8e447cf90579616a3258a4d)
+[CV Guide](https://cloudy-rainy.notion.site/CV-Resume-Guide-bb08ea5e55ca423f88d8118398ba2972#1e5f2ece64f7807abb9de885b0909c3e)
 <br>[FlowCV](https://app.flowcv.com/)
 <br>[Wozber](https://www.wozber.com/en-us)
 <br>[Rezi](https://app.rezi.ai/)
