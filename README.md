@@ -119,6 +119,7 @@ https://huggingface.co/
 <br>https://huggingface.co/spaces/Vokturz/can-it-run-llm
 <br>https://vram.asmirnov.xyz/
 <br>https://huggingface.co/spaces/hf-accelerate/model-memory-usage
+<br>https://github.com/AlexsJones/llmfit
 
 
 ### Model Training:
