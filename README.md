@@ -18,6 +18,7 @@ Pick up this roadmap from [here](https://i.am.ai/roadmap/#big-data-engineer-road
 
 # You have to learn the maths before ML and DL
 **One of the most well known platform in maths: [Khan Academy](https://www.khanacademy.org/)** 
+<br>**This [repo](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) is designed for people who actually want to understand**
 <br>**See John Krohn sessions from [here](https://downloadly.ir/tag/jon-krohn/)**
 <br>**A nice site for learn the math: [maths is fun](https://mathsisfun.com/)**
 <br>**Arabic sourse on YouTube from [here](https://www.youtube.com/channel/UCzYgAyyZTLfnLFjQexOKxbQ/playlists)**
