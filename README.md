@@ -121,6 +121,7 @@ https://huggingface.co/
 <br>https://vram.asmirnov.xyz/
 <br>https://huggingface.co/spaces/hf-accelerate/model-memory-usage
 <br>https://github.com/AlexsJones/llmfit
+<br>https://github.com/Andyyyy64/whichllm
 
 
 ### Model Training:
