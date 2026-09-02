@@ -160,6 +160,7 @@ https://huggingface.co/
 <br>[CV review](https://www.topcv.co.uk/)
 <br>[Resume Checker](https://www.resumego.net/resume-checker/)
 <br>[Resume Worded](https://resumeworded.com/)
+<br>[ResumeAI](https://withresumeai.com/) — free ATS checker + State of ATS 2026
 # Practice live interviews with peers
 [Interview Warmup](https://grow.google/certificates/interview-warmup/)
 <br> [Pramp](https://www.pramp.com/#/)
