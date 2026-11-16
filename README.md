@@ -162,6 +162,7 @@ https://huggingface.co/
 <br>[Resume Checker](https://www.resumego.net/resume-checker/)
 <br>[Resume Worded](https://resumeworded.com/)
 <br>[ResumeAI](https://withresumeai.com/) — free ATS checker + State of ATS 2026
+<br>[JobEmerge](https://www.jobemerge.work/) — AI career copilot with a job-fit test, 19-language resume translation, and a Markdown resume editor.
 # Practice live interviews with peers
 [Interview Warmup](https://grow.google/certificates/interview-warmup/)
 <br> [Pramp](https://www.pramp.com/#/)
