@@ -166,6 +166,7 @@ https://huggingface.co/
 # Practice live interviews with peers
 [Interview Warmup](https://grow.google/certificates/interview-warmup/)
 <br> [Pramp](https://www.pramp.com/#/)
+<br> [Aethel](https://aethel.pro/practice-guides/data-ml) — AI practice interviews for data and ML roles (not with a peer), free, no account
 ### A Repo guide for Machine Learning Technical Interviews in FAANG Companies >> [Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/README.md?fbclid=IwAR2iEspGAMB_4NBE59ADjwWs3S0mnIG-vzRhIBZl7ZzmJdEjiD89oshB4DI)
 # Job Search
 [trabajo](https://eg.trabajo.org/)
